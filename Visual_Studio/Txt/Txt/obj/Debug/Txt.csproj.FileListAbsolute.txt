@@ -1,0 +1,7 @@
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Txt\Txt\bin\Debug\Txt.exe.config
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Txt\Txt\bin\Debug\Txt.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Txt\Txt\bin\Debug\Txt.pdb
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Txt\Txt\obj\Debug\Txt.csprojAssemblyReference.cache
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Txt\Txt\obj\Debug\Txt.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Txt\Txt\obj\Debug\Txt.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Txt\Txt\obj\Debug\Txt.pdb

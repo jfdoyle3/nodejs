@@ -1,0 +1,7 @@
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Grading_Students\Grading_Students\bin\Debug\Grading_Students.exe.config
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Grading_Students\Grading_Students\bin\Debug\Grading_Students.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Grading_Students\Grading_Students\bin\Debug\Grading_Students.pdb
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Grading_Students\Grading_Students\obj\Debug\Grading_Students.csprojAssemblyReference.cache
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Grading_Students\Grading_Students\obj\Debug\Grading_Students.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Grading_Students\Grading_Students\obj\Debug\Grading_Students.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Grading_Students\Grading_Students\obj\Debug\Grading_Students.pdb

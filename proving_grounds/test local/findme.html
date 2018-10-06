@@ -1,0 +1,51 @@
+<script>
+        var options = {
+          enableHighAccuracy: true,
+          timeout: 5000,
+          maximumAge: 0
+        };
+        
+        function success(pos) {
+          var crd = pos.coords;
+          console.log('Your current position is:');
+          console.log('Latitude : ${crd.latitude}');
+          console.log('Longitude: ${crd.longitude}');
+          console.log('More or less ${crd.accuracy} meters.');
+        
+        
+          document.getElementById("crds").innerHTML =   'Your current position is: <br>' +
+          'Latitude : ${crd.latitude} <br>' +
+          'Longitude: ${crd.longitude} <br>' +
+          'More or less ${crd.accuracy} meters.';
+        
+        }
+        
+        function myFunction(){
+          console.log('You clicked it!');
+          navigator.geolocation.getCurrentPosition(success, error, options);
+        }
+        
+        function error(err) {
+          console.warn('ERROR(${err.code}): ${err.message}');
+        }
+        
+        
+        
+        </script>
+        
+        <body>
+        
+        <form> <!-- action="">-->
+          <label><input type="checkbox" name="personality"> Sparkly</label>
+          <label><input type="checkbox" name="personality"> Shiny</label>
+          <label><input type="checkbox" name="personality"> Cute</label>
+          <input type="text" placeholder="02806" required>
+            <button id = "btnZipCode" type="submit" onclick="myFunction()">Enter Your Zip Code</button> 
+       <span id='crds'></span>
+        </form>
+        <div id="data">
+            <h4>Here:</h4>
+            <h4 id="crds"></h4>
+        </div>
+        
+        </body>

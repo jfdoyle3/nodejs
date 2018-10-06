@@ -1,0 +1,7 @@
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\var_const\var_const\obj\Debug\var_const.csprojAssemblyReference.cache
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\var_const\var_const\obj\Debug\var_const.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\var_const\var_const\bin\Debug\var_const.exe.config
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\var_const\var_const\bin\Debug\var_const.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\var_const\var_const\bin\Debug\var_const.pdb
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\var_const\var_const\obj\Debug\var_const.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\var_const\var_const\obj\Debug\var_const.pdb

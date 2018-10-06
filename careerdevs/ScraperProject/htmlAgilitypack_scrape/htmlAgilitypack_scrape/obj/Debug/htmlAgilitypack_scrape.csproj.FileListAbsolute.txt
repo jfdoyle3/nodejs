@@ -1,0 +1,12 @@
+C:\Users\Jim\Box Sync\repository\careerdevs\ScraperProject\htmlAgilitypack_scrape\htmlAgilitypack_scrape\bin\Debug\htmlAgilitypack_scrape.exe.config
+C:\Users\Jim\Box Sync\repository\careerdevs\ScraperProject\htmlAgilitypack_scrape\htmlAgilitypack_scrape\bin\Debug\htmlAgilitypack_scrape.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\ScraperProject\htmlAgilitypack_scrape\htmlAgilitypack_scrape\bin\Debug\htmlAgilitypack_scrape.pdb
+C:\Users\Jim\Box Sync\repository\careerdevs\ScraperProject\htmlAgilitypack_scrape\htmlAgilitypack_scrape\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Jim\Box Sync\repository\careerdevs\ScraperProject\htmlAgilitypack_scrape\htmlAgilitypack_scrape\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Jim\Box Sync\repository\careerdevs\ScraperProject\htmlAgilitypack_scrape\htmlAgilitypack_scrape\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Jim\Box Sync\repository\careerdevs\ScraperProject\htmlAgilitypack_scrape\htmlAgilitypack_scrape\obj\Debug\htmlAgilitypack_scrape.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Box Sync\repository\careerdevs\ScraperProject\htmlAgilitypack_scrape\htmlAgilitypack_scrape\obj\Debug\htmlAgilitypack_scrape.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\ScraperProject\htmlAgilitypack_scrape\htmlAgilitypack_scrape\obj\Debug\htmlAgilitypack_scrape.pdb
+C:\Users\indel\Box\repository\careerdevs\ScraperProject\htmlAgilitypack_scrape\htmlAgilitypack_scrape\bin\Debug\htmlAgilitypack_scrape.exe.config
+C:\Users\indel\Box\repository\careerdevs\ScraperProject\htmlAgilitypack_scrape\htmlAgilitypack_scrape\obj\Debug\htmlAgilitypack_scrape.exe
+C:\Users\indel\Box\repository\careerdevs\ScraperProject\htmlAgilitypack_scrape\htmlAgilitypack_scrape\obj\Debug\htmlAgilitypack_scrape.pdb

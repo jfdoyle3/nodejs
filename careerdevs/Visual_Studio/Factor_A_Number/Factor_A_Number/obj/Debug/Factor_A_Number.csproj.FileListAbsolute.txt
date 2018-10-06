@@ -1,0 +1,6 @@
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Factor_A_Number\Factor_A_Number\bin\Debug\Factor_A_Number.exe.config
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Factor_A_Number\Factor_A_Number\bin\Debug\Factor_A_Number.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Factor_A_Number\Factor_A_Number\bin\Debug\Factor_A_Number.pdb
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Factor_A_Number\Factor_A_Number\obj\Debug\Factor_A_Number.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Factor_A_Number\Factor_A_Number\obj\Debug\Factor_A_Number.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Factor_A_Number\Factor_A_Number\obj\Debug\Factor_A_Number.pdb

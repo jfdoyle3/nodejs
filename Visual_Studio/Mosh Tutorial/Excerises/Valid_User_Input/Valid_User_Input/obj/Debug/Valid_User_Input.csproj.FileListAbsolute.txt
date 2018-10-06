@@ -1,0 +1,6 @@
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Valid_User_Input\Valid_User_Input\bin\Debug\Valid_User_Input.exe.config
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Valid_User_Input\Valid_User_Input\obj\Debug\Valid_User_Input.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Valid_User_Input\Valid_User_Input\bin\Debug\Valid_User_Input.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Valid_User_Input\Valid_User_Input\bin\Debug\Valid_User_Input.pdb
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Valid_User_Input\Valid_User_Input\obj\Debug\Valid_User_Input.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Valid_User_Input\Valid_User_Input\obj\Debug\Valid_User_Input.pdb

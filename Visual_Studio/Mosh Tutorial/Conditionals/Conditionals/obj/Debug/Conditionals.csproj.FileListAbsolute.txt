@@ -1,0 +1,7 @@
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Conditionals\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Conditionals\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Conditionals\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Conditionals\Conditionals\obj\Debug\Conditionals.csprojAssemblyReference.cache
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Conditionals\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Conditionals\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Conditionals\Conditionals\obj\Debug\Conditionals.pdb

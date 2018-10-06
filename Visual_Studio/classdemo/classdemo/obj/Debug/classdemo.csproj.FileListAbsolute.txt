@@ -1,0 +1,8 @@
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\classdemo\classdemo\bin\Debug\classdemo.exe.config
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\classdemo\classdemo\bin\Debug\classdemo.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\classdemo\classdemo\bin\Debug\classdemo.pdb
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\classdemo\classdemo\obj\Debug\classdemo.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\classdemo\classdemo\obj\Debug\classdemo.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\classdemo\classdemo\obj\Debug\classdemo.pdb
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\classdemo\classdemo\bin\Debug\classdemo.exe.CodeAnalysisLog.xml
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\classdemo\classdemo\bin\Debug\classdemo.exe.lastcodeanalysissucceeded

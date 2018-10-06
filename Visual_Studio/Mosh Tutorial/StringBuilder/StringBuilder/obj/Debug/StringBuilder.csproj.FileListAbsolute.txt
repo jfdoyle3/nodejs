@@ -1,0 +1,7 @@
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csprojAssemblyReference.cache
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe.config
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\StringBuilder\StringBuilder\bin\Debug\StringBuilder.pdb
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\StringBuilder\StringBuilder\obj\Debug\StringBuilder.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\StringBuilder\StringBuilder\obj\Debug\StringBuilder.pdb

@@ -1,0 +1,5 @@
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\PortOrLand\PortOrLand\bin\Debug\PortOrLand.exe.config
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\PortOrLand\PortOrLand\bin\Debug\PortOrLand.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\PortOrLand\PortOrLand\bin\Debug\PortOrLand.pdb
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\PortOrLand\PortOrLand\obj\Debug\PortOrLand.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\PortOrLand\PortOrLand\obj\Debug\PortOrLand.pdb

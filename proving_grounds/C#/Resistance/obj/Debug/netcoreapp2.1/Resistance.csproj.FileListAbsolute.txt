@@ -1,0 +1,11 @@
+C:\Users\Jim\Box Sync\repository\proving_grounds\C#\Resistance\bin\Debug\netcoreapp2.1\Resistance.deps.json
+C:\Users\Jim\Box Sync\repository\proving_grounds\C#\Resistance\bin\Debug\netcoreapp2.1\Resistance.runtimeconfig.json
+C:\Users\Jim\Box Sync\repository\proving_grounds\C#\Resistance\bin\Debug\netcoreapp2.1\Resistance.runtimeconfig.dev.json
+C:\Users\Jim\Box Sync\repository\proving_grounds\C#\Resistance\bin\Debug\netcoreapp2.1\Resistance.dll
+C:\Users\Jim\Box Sync\repository\proving_grounds\C#\Resistance\bin\Debug\netcoreapp2.1\Resistance.pdb
+C:\Users\Jim\Box Sync\repository\proving_grounds\C#\Resistance\obj\Debug\netcoreapp2.1\Resistance.csprojAssemblyReference.cache
+C:\Users\Jim\Box Sync\repository\proving_grounds\C#\Resistance\obj\Debug\netcoreapp2.1\Resistance.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Box Sync\repository\proving_grounds\C#\Resistance\obj\Debug\netcoreapp2.1\Resistance.AssemblyInfoInputs.cache
+C:\Users\Jim\Box Sync\repository\proving_grounds\C#\Resistance\obj\Debug\netcoreapp2.1\Resistance.AssemblyInfo.cs
+C:\Users\Jim\Box Sync\repository\proving_grounds\C#\Resistance\obj\Debug\netcoreapp2.1\Resistance.dll
+C:\Users\Jim\Box Sync\repository\proving_grounds\C#\Resistance\obj\Debug\netcoreapp2.1\Resistance.pdb

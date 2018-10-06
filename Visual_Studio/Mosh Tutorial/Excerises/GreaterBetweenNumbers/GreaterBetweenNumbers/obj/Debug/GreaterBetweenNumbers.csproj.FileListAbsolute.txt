@@ -1,0 +1,12 @@
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\GreaterBetweenNumbers\GreaterBetweenNumbers\bin\Debug\GreaterBetweenNumbers.exe.config
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\GreaterBetweenNumbers\GreaterBetweenNumbers\obj\Debug\GreaterBetweenNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\GreaterBetweenNumbers\GreaterBetweenNumbers\bin\Debug\GreaterBetweenNumbers.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\GreaterBetweenNumbers\GreaterBetweenNumbers\bin\Debug\GreaterBetweenNumbers.pdb
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\GreaterBetweenNumbers\GreaterBetweenNumbers\obj\Debug\GreaterBetweenNumbers.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\GreaterBetweenNumbers\GreaterBetweenNumbers\obj\Debug\GreaterBetweenNumbers.pdb
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Mosh Tutorial\Excerises\GreaterBetweenNumbers\GreaterBetweenNumbers\bin\Debug\GreaterBetweenNumbers.exe.config
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Mosh Tutorial\Excerises\GreaterBetweenNumbers\GreaterBetweenNumbers\obj\Debug\GreaterBetweenNumbers.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Mosh Tutorial\Excerises\GreaterBetweenNumbers\GreaterBetweenNumbers\obj\Debug\GreaterBetweenNumbers.pdb
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Mosh Tutorial\Excerises\GreaterBetweenNumbers\GreaterBetweenNumbers\bin\Debug\GreaterBetweenNumbers.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Mosh Tutorial\Excerises\GreaterBetweenNumbers\GreaterBetweenNumbers\bin\Debug\GreaterBetweenNumbers.pdb
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Mosh Tutorial\Excerises\GreaterBetweenNumbers\GreaterBetweenNumbers\obj\Debug\GreaterBetweenNumbers.csprojResolveAssemblyReference.cache

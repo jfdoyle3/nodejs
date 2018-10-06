@@ -1,0 +1,5 @@
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Speeding\Speeding\bin\Debug\Speeding.exe.config
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Speeding\Speeding\bin\Debug\Speeding.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Speeding\Speeding\bin\Debug\Speeding.pdb
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Speeding\Speeding\obj\Debug\Speeding.exe
+C:\Users\Jim\Box Sync\repository\careerdevs\Visual_Studio\Speeding\Speeding\obj\Debug\Speeding.pdb
