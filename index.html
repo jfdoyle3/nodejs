@@ -1,9 +1,13 @@
+
+
+
 <script src="/socket.io/socket.io.js"></script>
 <script>
     var socket=io.connect('http://localhost:8079', {reconnect: true});
-    socket.on('messages', function(data){
-        alert(data.hello);
-    });
+   $('#chat_form').sumbit(function(e){
+       var message=$('#chat_input').val();
+       socket.emit('messages', message);
+   });
 </script>
 
 <!-- This line is for the express.js file
