@@ -1,0 +1,18 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Doyle",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "redis": "^2.8.0",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
